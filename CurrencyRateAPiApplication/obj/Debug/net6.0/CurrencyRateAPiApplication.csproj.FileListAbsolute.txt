@@ -1,0 +1,12 @@
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.csproj.AssemblyReference.cache
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.AssemblyInfoInputs.cache
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.AssemblyInfo.cs
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.csproj.CoreCompileInputs.cache
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\bin\Debug\net6.0\CurrencyRateAPiApplication.deps.json
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\bin\Debug\net6.0\CurrencyRateAPiApplication.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\bin\Debug\net6.0\CurrencyRateAPiApplication.pdb
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\refint\CurrencyRateAPiApplication.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\CurrencyRateAPiApplication.pdb
+C:\Users\okornieva.appwell\source\repos\CurrencyRateAPiApplication\CurrencyRateAPiApplication\obj\Debug\net6.0\ref\CurrencyRateAPiApplication.dll
